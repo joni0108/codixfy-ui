@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Please, be mindful, this project is on extremely early stages of development. It is not ready for production use.
 
-## Getting Started
+## What is this project about?
+This project will be an open-source modern styled NextJS-optimized components
+library.
 
-First, run the development server:
+It is expected to include a wide range of components, from simple buttons to complex data tables/sidebars, etc.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+It will also include ready-to-use page/webapps blocks, so you can deploy a complete styled page or web applications 
+in a couple of hours, just joining blocks like lego pieces.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Why another component library?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. This is NextJS focused and optimized, using things like next-themes, next-links, next-image, etc.
+2. It is expected to be as completed as PrimeReact, good-looking like Preline, and code-level customizable as Shadcn.
+3. It is SEO optimized, and complies with the latest web standards.
+4. It supports server-side rendering on all the components that doesn't need client-side interaction.
+5. It is open-source and free to use, even for commercial projects.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## When will it be available?
+I'm working on it on my free time, so I can't give you a precise date. But I'm working hard to release it as soon as possible.
 
-## Learn More
+You can check out the "Projects" tab to see the current status of the project.
 
-To learn more about Next.js, take a look at the following resources:
+## How can I help?
+You can help by:
+- Giving feedback on the components you would like to see in the library.
+- Reporting bugs.
+- Contributing to the codebase.
+- Sharing the project with your friends and colleagues.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Important
+Be advised that all the components to this date are alpha, which means that syntax and codebase can, and will likely change.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Once we move a components set to beta, we will keep the syntax, just adding new features, but maintaining retro-compatibility.
